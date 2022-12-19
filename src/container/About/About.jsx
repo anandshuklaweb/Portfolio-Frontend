@@ -36,7 +36,9 @@ const About = () => {
             on Node.js and React.js as a MERN Stack Developer.
           </p>
         </motion.div>
-        <button type="button">Download Resume</button>
+        <a href="/Anand-Shukla-Resume.pdf" target="_blank">
+          <button type="button">Download Resume</button>
+        </a>
       </div>
     </>
   );
